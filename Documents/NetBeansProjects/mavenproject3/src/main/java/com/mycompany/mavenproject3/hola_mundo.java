@@ -16,7 +16,7 @@ public class hola_mundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Benavides Fernanda ");
+        System.out.println("Benavides  Fernanda ");
     }
     
 }
